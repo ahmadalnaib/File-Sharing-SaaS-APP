@@ -4,10 +4,22 @@
       <li><router-link class="text-sm inline-block p-3 text-gray-800" :to="{name:'home'}">Home</router-link></li>
       <li><a class="text-sm inline-block p-3 text-gray-800"  href="">Your files</a></li>
     </ul>
-
+{{user}}
     <ul class="flex items-center">
       <li><router-link class="text-sm inline-block p-3 text-gray-800" :to="{name:'login'}">Login</router-link></li>
       <li><a class="text-sm inline-block p-3 text-gray-800"  href="">Create account</a></li>
     </ul>
   </header>
 </template>
+
+<script>
+import {mapGetters} from 'vuex'
+export  default {
+computed:{
+  ...mapGetters({
+    authenticated:'auth/authenticated',
+    user:'auth/user',
+  })
+}
+}
+</script>
