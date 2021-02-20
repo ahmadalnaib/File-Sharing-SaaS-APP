@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/hiuploadapi/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/hiuploadapi/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/hiuploadapi/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/hiuploadapi/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/fruitcake/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/laravel/sail" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/hiuploadapi/vendor/phpunit/php-timer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
